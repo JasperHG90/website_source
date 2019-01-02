@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546379124722.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8B8CAC26",
+    "lastKnownWriteTime" : 1546379158,
+    "last_content_update" : 1546379158851,
+    "path" : "~/JDocs/homepage/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "61,43",
+        "scrollLine" : "49"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
