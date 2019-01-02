@@ -356,6 +356,7 @@ p.img-404 {
 #home-title {
   margin: 0;
   text-align: center;
+  margin-bottom:5px;
 }
 
 #home-subtitle {
@@ -798,4 +799,12 @@ hr.post-end {
   #mobile-menu {
     right: 1.2em;
   }
+}
+
+avatar {
+    max-width: 100px;
+    margin-bottom: 15px;
+    border: 0px solid #fff;
+    border-radius: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
 }

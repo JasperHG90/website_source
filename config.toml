@@ -34,7 +34,7 @@ disqusShortname = "jasperginn"
   # images = [""]
   themeColor = "#5c6984"
 
-  homeSubtitle = "Data scientist based in the Netherlands. Currently working towards obtaining an MSc in Statistics. Works at the Leiden University Center for Innovation. Likes to learn new things and think about complex problems."
+  homeSubtitle = "Data scientist based in the Netherlands. Likes to learn new things and solve complex problems."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   #bgImg = "https://picsum.photos/1024/768/?image=716"  # Homepage background-image URL
 
