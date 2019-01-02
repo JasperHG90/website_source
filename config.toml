@@ -34,7 +34,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#5c6984"
 
-  homeSubtitle = "Data scientist based in the Netherlands. Currently working towards obtaining an MSc in Statistics. Works at the Leiden University Center for Innovation. Likes to work on complex problems."
+  homeSubtitle = "Data scientist based in the Netherlands. Currently working towards obtaining an MSc in Statistics. Works at the Leiden University Center for Innovation. Likes to learn new things and think about complex problems."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   #bgImg = "https://picsum.photos/1024/768/?image=716"  # Homepage background-image URL
 
@@ -49,38 +49,39 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
+  
   [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/jhginn"
+    name = "github"
+    url = "https://github.com/JasperHG90"
+
+  [[params.social]]
+    name = "dockerhub"
+    url = "https://hub.docker.com/u/jhginn/"
 
   [[params.social]]
     name = "email"
     url = "mailto:jasperginn@gmail.com"
-    
-  [[params.social]]
-    name = "resume"
-    url = "https://jasperhg90.github.io/cv/"
 
   [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/jasperginn/"
-
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/JasperHG90"
-    
-  [[params.social]]
-    name = "dockerhub"
-    url = "https://hub.docker.com/u/jhginn/"
     
   [[params.social]]
     name = "researchgate"
     url = "https://www.researchgate.net/profile/Jasper_Ginn"
 
+  [[params.social]]
+    name = "resume"
+    url = "https://jasperhg90.github.io/cv/" 
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/jhginn"
+
 [menu]
 
   [[menu.main]]
-    name = "Projects"
+    name = "Posts"
     url = "/posts/"
     weight = 10
 

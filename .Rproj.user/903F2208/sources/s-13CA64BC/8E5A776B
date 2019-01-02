@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546457008425.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3423573012",
+    "id" : "8E5A776B",
+    "lastKnownWriteTime" : 1546272714,
+    "last_content_update" : 1546272714,
+    "path" : "~/JDocs/homepage/themes/hermit/theme.toml",
+    "project_path" : "themes/hermit/theme.toml",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
