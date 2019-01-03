@@ -70,9 +70,9 @@ disqusShortname = "jasperginn"
     name = "researchgate"
     url = "https://www.researchgate.net/profile/Jasper_Ginn"
 
-  [[params.social]]
-    name = "resume"
-    url = "https://jasperhg90.github.io/cv/" 
+#  [[params.social]]
+#    name = "resume"
+#    url = "https://jasperhg90.github.io/cv/" 
 
   [[params.social]]
     name = "twitter"
@@ -84,6 +84,11 @@ disqusShortname = "jasperginn"
   #  name = "Posts"
   #  url = "/posts/"
   #  weight = 10
+
+  [[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 20
 
   [[menu.main]]
     name = "About"
